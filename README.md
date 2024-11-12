@@ -1,5 +1,6 @@
 # tvvarnets
-`tvvarnets.R` implements time-varying group lasso to estimate a uniform time-varying *Granger causality network* and time-varying CLIME to estimate a uniform time-varying *partial correlation network* based on a time-varying VAR model. 
+
+The function `tvvarnets.R` implements time-varying group lasso to estimate a uniform time-varying *Granger causality network* and time-varying CLIME to estimate a uniform time-varying *partial correlation network* based on a time-varying VAR model. 
 
 See
 

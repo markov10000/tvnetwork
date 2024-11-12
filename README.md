@@ -3,7 +3,7 @@
 
 See
 
-> Chen, J., Li, D., Li, Y. and Linton, O., 2025. Estimating time-varying networks for high-dimensional time series.
+> Chen, J., Li, D., Li, Y. and Linton, O., 2025. Estimating time-varying networks for high-dimensional time series. Journal of Econometrics.
 
 ## main 
 *main_net_fac.R*:		time-varying network 
